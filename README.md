@@ -6,7 +6,7 @@
 ## 9월 
 - leoo: DDD start
 - 상원: 객체지향의 사실과 오해 
-- 도윤: b언어 기초
+- 도윤: Designing Data-Intensive Applications
 - 정수: Advanced Swift
 
 | 주차 | leoo | 상원 | 도윤 | 정수 | 
